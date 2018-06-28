@@ -5,7 +5,7 @@ Just run the shell script, and then ensure connectivity from Snyk instance to yo
 
 ## Usage
 
-sh quickstartOpenLDAP.sh
+```sh quickstartOpenLDAP.sh```
 
 Ping me if any questions !
 antoine@snyk.io
